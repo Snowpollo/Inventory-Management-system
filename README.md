@@ -1,4 +1,7 @@
 # Inventory Management & Stock Control System
+## Dashboard Preview
+
+![Inventory Management Dashboard](inventory-dashboard.png.png)
 
 ## Project Overview
 
