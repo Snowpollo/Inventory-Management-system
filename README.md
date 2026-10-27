@@ -2,6 +2,9 @@
 ## Dashboard Preview
 
 ![Inventory Management Dashboard](inventory-dashboard.png.png)
+## Inventory Summary Preview
+
+![Inventory Summary](inventory-summary.png)
 
 ## Project Overview
 
